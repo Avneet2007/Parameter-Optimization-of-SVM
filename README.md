@@ -38,7 +38,7 @@ Number of Attributes: 16
 | 10 | 0.92 | Poly | 0.34 | 5.50 |
 
 ## Discussion
-From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
+ We can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
 
 The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
 
